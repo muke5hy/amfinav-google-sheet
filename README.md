@@ -2,8 +2,6 @@
 
 ## How to Install
 
-**⚠️Important:** Before to start, uninstall the webstore version to avoid duplicate. You can do this via **Add-ons** &rsaquo; **Manage Add-ons** and selecting **Remove** from the drop-down menu.
-
 1. Open a Google sheet where you wish to import `AMFI NAV`
 2. Go to **Tools** &rsaquo; **Script editor**
 3. Copy the content of  and paste it in the script editor (replace any existing content)
