@@ -9,6 +9,8 @@
 5. Back to your Google sheet, refresh the page, a **AMFINAV** menu will appear next to **Help**
 6. That's it! You now have the `amfinav-google-sheet` is installed and you may multiple functions available in your sheet.
 
+## TODO 
+1. Add historical download. 
 
 ## License
 
