@@ -6,7 +6,7 @@
 2. Go to **Tools** &rsaquo; **Script editor**
 3. Copy the content of  and paste it in the script editor (replace any existing content)
 4. Save the script with **File** &rsaquo; **Save**, name it **AMFINAV**, then close the script editor
-5. Back to your Google sheet, refresh the page, a **AMFINAV** menu will appear next to **Help**
+5. Back to your Google sheet, refresh the page, a **Mutual Fund NAV** menu will appear next to **Help**
 6. That's it! You now have the `amfinav-google-sheet` is installed and you may multiple functions available in your sheet.
 
 ## TODO 
